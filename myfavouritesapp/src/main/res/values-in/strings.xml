@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github Favorit</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="link">Alamat Url</string>
+    <string name="no_fav">Tidak Ada Pengguna Favorit</string>
+    <string name="remove_user">Pengguna Telah Dihapus</string>
+    <string name="dialog_message">Apakah Kamu Yakin Menghapus User Ini ?</string>
+    <string name="dialog_title">Hapus Pengguna</string>
+    <string name="yes">Konfirmasi</string>
+    <string name="no">Batal</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Final</string>
+    <string name="name">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="repository">Folder</string>
+    <string name="number">Angka</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="location">Lokasi</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Nama Pengguna</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bio">Biografi</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="link">Alamat Github</string>
+    <string name="setting">Pengaturan</string>
+    <string name="bad_request">Permintaan Buruk</string>
+    <string name="forbidden">Dilarang</string>
+    <string name="not_found">Tidak Ditemukan</string>
+    <string name="not_connected">Periksa Koneksi Internet Anda</string>
+    <string name="favorite">Disukai</string>
+    <string name="set_language">Pengaturan Bahasa</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="fav">Pengguna Favorit</string>
+    <string name="appwidget_text">Pengguna Github Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="no_fav">Tidak Ada Pengguna Favorit</string>
+    <string name="un_fav">Dihapus Dari Favorit</string>
+</resources>

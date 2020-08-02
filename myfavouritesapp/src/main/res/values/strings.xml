@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Favourite Users</string>
+    <string name="username">username</string>
+    <string name="link">link url</string>
+    <string name="no_fav">Empty Favourite User</string>
+    <string name="remove_user">User Has Been Removed</string>
+    <string name="dialog_message">Are You Sure to Remove This User ?</string>
+    <string name="dialog_title">Remove User</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+</resources>

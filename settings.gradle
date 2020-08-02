@@ -1,0 +1,3 @@
+include ':myfavouritesapp'
+rootProject.name='MyGithubFINAL'
+include ':app'
